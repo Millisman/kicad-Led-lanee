@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/user/2023.1/Led_driver_board/Led_lanee/Led_lanee.kicad_sch</source>
+    <date>Sun 12 Feb 2023 05:06:17 CET</date>
+    <tool>Eeschema 6.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Led_lanee.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a70b4d0-68cf-4dfa-9a76-3cf6adab69b2</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24d5468c-1808-4f4c-b840-836db82e0cc3</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ad44c77-fe8c-4a51-a983-e6d9c3450916</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9743f7fc-ac68-40dd-958f-3558a84e5353</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2f4d844-60fe-4447-9875-b3ce173abb90</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87dd3340-33c9-441b-a788-f6927f56d987</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a8b4307-4ea1-48cd-b8ad-5383193b7ef0</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4d2903c-fcd8-4e7a-867d-cafd2ea6eb58</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ed0d01b-e0f6-4c3b-a5ef-e53b91680384</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c67d8229-b618-46bf-8f95-8a081cb6fe2f</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26954a59-a62b-462c-899b-27c824b6d68e</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00a0ee07-e598-46f9-aebb-551eab9aa801</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f221251e-a68c-4bae-8cdd-88a12e69d3ce</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c043067-45c6-4b6a-abdf-916d48204f23</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b12e0a3c-026d-4be0-8984-acac7ae793b4</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27e0836b-d016-4964-bb2d-2f19df3017d0</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54751346-947b-4a45-b4ae-8702c8b2ff34</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88e6fa61-4d7a-41ac-8921-8fcd1fadc640</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06c08fad-8c65-47d0-b440-d6ba4d46ebd2</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c627e5fe-c609-4b4b-9c3d-5436c77ee6bd</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e74df55a-2b31-4fa9-bcee-dfc9a485d1ec</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59fe99a2-70cd-4b04-b21b-f1cbdb4cee7c</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe3b09dc-5497-44b5-baff-5fac22078c01</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aad4c393-6040-4bab-99d1-a2f39e756001</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9879a0cf-9c3d-44e9-b414-5d7da1c36d48</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfff07e9-d112-44bd-9dbd-fadb49c0c807</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7d1bbfc-2487-4e1b-bc4b-d3308436c063</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97aa1bd7-e243-4fbe-ad58-2a669b7ee00f</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd060fa2-714f-4d99-8852-68b7c71b63dc</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53359d40-dbf6-4c19-a965-3cf1ea5fcbd4</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f68dc1ad-7312-4202-a753-504d042a5c0a</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80eb0163-3d20-4262-9eb3-18d9da64609e</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf1d3b08-95a3-4089-8722-7b76c91927ea</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbc61b46-94c3-420e-84ba-99b8d2647299</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec2c8d15-35bd-49f0-8782-4bbfc3dddf10</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baafeb5f-4e88-4c6a-92ce-5c0fdc9f5d51</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a8a5970-e148-42da-a2f2-5542a7176d48</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a2df4c3-3f2b-4ad4-b0cf-4abf8bd4db4c</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6c55ed4-2bfa-4d8c-9952-7d9542469b06</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c93bfd59-ff5f-4afa-8345-1c5e4d1ee982</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa1bd949-fd25-47e6-b524-37dc1755f441</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a28d3ad7-1335-4d6e-89df-a02d2fccd085</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7a1e898-8429-4ce8-82f6-3be9aba09f36</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc598024-6897-4798-9033-95bfec573b2f</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba574696-91c3-41c7-b3cc-7bca9a0e6423</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ec2ed63-7c6b-408b-b670-ee424bff7a51</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97b34d44-2c26-40e8-935b-0fa3c91f57ab</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9a7d15a-7e4e-4b1a-a149-bcddfcc9cb6b</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bc1b63b-ab1f-42fe-b8ed-03f0804d932a</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2058b54d-b1c6-4c02-8cdd-88e416ba9907</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>XL-2835UWC-02</value>
+      <footprint>Library:LED-SMD_L3.5-W2.8-RD_1.25T-2PWT</footprint>
+      <fields>
+        <field name="LCSC">C2843876</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2843876"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1de8a343-b746-4bc8-9c8e-dad25bb34e48</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6acbdda5-4a0e-4bc6-9022-b7757c35d40a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d93b3b68-1a15-4751-b784-0fe889e322d6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f361df2-c711-4b8a-9b0e-014194fbaece</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32f9d625-61d3-44a6-9aa5-fdec75898c06</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>308968f5-6d0c-4c7a-b8c3-9d092e96a118</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ee80dc4-eeb7-4f85-bc7f-c449de27bbf7</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4df8c36-3074-4623-9308-0bab4c687053</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15ffb8f1-02f5-466c-9920-22d4df9ef957</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db502067-c7ec-4777-9441-ed8562d34f8b</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5260352-a3b9-4b5b-9707-d44cbd1a06da</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6539d3fc-6103-4d13-ab0a-fcc30da20ce1</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0968e03-7d2a-43b8-9cb2-4535fa949cb8</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53d902a4-03f6-403c-99de-fdd94e928a62</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b7fb93b-c2e1-41ba-b2dc-9599a8291b58</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2a80daf-3847-40af-b489-6e16e8ef3615</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>608e5446-7507-4ba3-b407-e0e3a2043f8b</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98dee2a7-950c-455b-b479-63ab662c360f</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68cf7d5b-578d-4ffd-be5e-2819071e9e38</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9833bbcf-751a-47a1-a00e-894fd376119c</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f37acd82-d3bb-415a-8e71-bf9c5c081ba8</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1af419c-2584-422d-b3dd-275d91d45819</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ca8f3ab-2b58-4964-a48c-0e90f340dd18</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>673e019e-b53b-45f9-b0ce-ff5dade81e18</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22200283-4e4a-4d0a-8a62-d1a392662cce</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b56d09f8-fd49-47ae-99c8-cfab431c2c53</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6f3dac7-7696-42d5-be97-84263ddf771e</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f41e28a9-699c-4dfe-9bc2-522d9e51a44f</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2be2848-b51e-420f-b5f7-e329d967a106</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06331bc2-79e6-4c67-9dc0-b6cb4827566e</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cab1efd-e27c-4c80-aaf7-46b2452670f8</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81171c7b-0527-4898-a004-67ae5db3b0c4</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71ec1797-f62e-4b13-aa4d-a6640a9b73c8</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97bbc4d7-2d8c-4a48-baea-450c77135484</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22859</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22859"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led_lanee.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65c41505-5aa0-45ba-a3cf-2d5dbfcd3878</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/12V0">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="2" name="/GND">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D23-Pad1)">
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D25-Pad1)">
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D26-Pad1)">
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D28-Pad1)">
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D29-Pad1)">
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D31-Pad1)">
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D32-Pad1)">
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D34-Pad1)">
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D35-Pad1)">
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D37-Pad1)">
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D38-Pad1)">
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D40-Pad1)">
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D41-Pad1)">
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D43-Pad1)">
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D44-Pad1)">
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D46-Pad1)">
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D47-Pad1)">
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D49-Pad1)">
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D50-Pad1)">
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
